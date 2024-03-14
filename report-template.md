@@ -19,8 +19,11 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
   * Model 1 uses a logistic regression model with the Original dataset. The scores from the classification report are as follows: 
-  
-|-------|---------|------------| 
+
+
+| Precision | Recall | F-1 Score | Support 
+|-------|---------|--------|
+
 
 
 
