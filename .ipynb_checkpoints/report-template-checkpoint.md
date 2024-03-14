@@ -1,4 +1,6 @@
-# Module 12 Report Template
+# Module 12 Report: Ravi 
+
+I worked with Kayla on this homework who helped go through my assignment from the first classification report onwards. 
 
 ## Overview of the Analysis
 
@@ -16,6 +18,9 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
+  * Model 1 uses a logistic regression model with the Original dataset. The scores from the classification report are as follows: 
+  
+|-------|---------|------------| 
 
 
 
